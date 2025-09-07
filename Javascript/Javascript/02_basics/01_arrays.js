@@ -1,6 +1,10 @@
-// array
+// array == it store the similar type of data
 
-const myArr = [0, 1, 2, 3, 4, 5]
+// .lenght == to check the lenght of arrray
+
+
+
+const myArr = [0, 1, 2, 3, 4, 5]  // array declaration 
 const myHeors = ["shaktiman", "naagraj"]
 
 const myArr2 = new Array(1, 2, 3, 4)
@@ -8,23 +12,23 @@ const myArr2 = new Array(1, 2, 3, 4)
 
 // Array methods
 
-// myArr.push(6)
-// myArr.push(7)
-// myArr.pop()
+// myArr.push(6) == check the size
+// myArr.push(7) == 
+// myArr.pop() == it remove the last value in the array
 
-// myArr.unshift(9)
-// myArr.shift()
+// myArr.unshift(9) == it shift the vaule of array ata the starting of array 
+// myArr.shift() == 
 
 // console.log(myArr.includes(9));
 // console.log(myArr.indexOf(3));
 
-// const newArr = myArr.join()
+// const newArr = myArr.join() == 
 
 // console.log(myArr);
 // console.log( newArr);
 
 
-// slice, splice
+// slice  , splice  == both things are manipulate the array 
 
 console.log("A ", myArr);
 
