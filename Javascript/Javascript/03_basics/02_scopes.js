@@ -1,4 +1,4 @@
-//var c = 300
+//var c = 300.f
 let a = 300
 if (true) {
     let a = 10
