@@ -1,14 +1,15 @@
 
-function sayMyName(){
+// function declaration
+function sayMyName(){ //==function
     console.log("H");
-    console.log("I");
+    console.log("I"); //==function declaration
     console.log("T");
     console.log("E");
     console.log("S");
     console.log("H");
 }
 
-// sayMyName()
+// sayMyName()  //==execuation 
 
 // function addTwoNumbers(number1, number2){
 
