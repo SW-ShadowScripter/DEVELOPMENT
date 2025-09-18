@@ -8,7 +8,7 @@ const user = {
     }
 
 }
-// this .. is refer to current contest
+// this .. is refer to current contest.........
 // user.welcomeMessage()
 // user.username = "sam"
 // user.welcomeMessage()
