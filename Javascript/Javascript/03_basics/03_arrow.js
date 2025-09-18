@@ -26,7 +26,7 @@ const user = {
 //     let username = "hitesh"
 //     console.log(this.username);
 // }
-
+// declaration of arrow function
 const chai =  () => {
     let username = "hitesh"
     console.log(this);
