@@ -2,10 +2,10 @@
 // console.log(string)
 // console.log(string.length)
 
-console.log(Math.random())
+c//onsole.log(Math.random())
 
 let date = new date()
-console.log(date.tostring())
+//console.log(date.tostring())
 
 /*git add .
 git commit
@@ -17,3 +17,6 @@ const Jsuser = {
     age:69,
     location:"jaipur"
 }
+
+Array = [1,2,3,45,67,89]
+console.log(Array)
