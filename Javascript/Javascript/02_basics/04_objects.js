@@ -1,4 +1,4 @@
-// const tinderUser = new Object()
+// const tinderUser = new Object()   ... it is a silgleton object 
 const tinderUser = {}
 
 tinderUser.id = "123abc"
