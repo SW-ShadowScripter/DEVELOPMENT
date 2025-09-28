@@ -2,7 +2,7 @@
 /*reduce the pollution in scopping */
 
 
-(function chai(){
+(function chai(){ //named iife
     // named IIFE
     console.log(`DB CONNECTED`);
 })();
