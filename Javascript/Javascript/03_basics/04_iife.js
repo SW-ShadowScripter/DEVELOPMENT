@@ -1,4 +1,5 @@
 // Immediately Invoked Function Expressions (IIFE)
+/*reduce the pollution in scopping */
 
 
 (function chai(){
