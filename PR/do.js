@@ -20,3 +20,6 @@ const Jsuser = {
 
 Array = [1,2,3,45,67,89]
 console.log(Array)
+
+
+//ye sab mat karooo dimag ghum jata haiiii
